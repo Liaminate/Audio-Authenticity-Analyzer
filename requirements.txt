@@ -1,0 +1,8 @@
+librosa
+soundfile
+numpy
+scikit-learn
+joblib
+openai
+python-dotenv
+matplotlib
