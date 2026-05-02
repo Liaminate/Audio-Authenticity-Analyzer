@@ -107,34 +107,38 @@ python audioauth584_app.py
 ### Usage
 
 1. Click **Select Audio File** and choose a `.mp3` or `.wav` file
+<img width="1488" height="559" alt="audio auth tool select file" src="https://github.com/user-attachments/assets/7af80ad7-c42f-479b-9035-40391b575efe" />
+
+---
+
 2. Read the color-coded score bar — green is likely authentic, red is likely AI-generated
 
-### Green Score — Likely Authentic (< 40%)
 
----
-
-### Yellow Score — Inconclusive (40–59%)
-
----
-
-### Red Score — Likely AI-Generated (≥ 60%)
+<img width="522" height="548" alt="audio auth tool authentic audio" src="https://github.com/user-attachments/assets/9d3cd8ef-4d82-4935-9bdc-ffef3ec0c9b2" />
+<img width="526" height="555" alt="audio auth tool AI audio" src="https://github.com/user-attachments/assets/bd7581b7-d523-402a-a0da-9519ac7cf3c7" />
 
 ---
 
 3. Optionally click **Signal Metrics** to see the raw feature values
+<img width="984" height="587" alt="audio auth signal metrics panel" src="https://github.com/user-attachments/assets/6d8c9070-a09c-497d-a2c8-9f091af9aabd" />
 
-### Signal Metrics Panel
 
 ---
 
 4. Optionally click **Audio Visualizer** to inspect the waveform and spectrogram
+<img width="1101" height="574" alt="audio auth tool wave form " src="https://github.com/user-attachments/assets/a801cc9d-bd2f-4aa9-97ff-06465fb9d27d" />
 
-### Audio Visualizer
 
 ---
 
 5. Optionally click **Explain Results** for a plain-language breakdown (requires OpenAI API key)
+<img width="1459" height="767" alt="audio auth tool explain results" src="https://github.com/user-attachments/assets/a008ae05-d9e1-4c3b-82ad-3a971c938834" />
+
+---
+
 6. Load multiple files at once — each gets its own tab; right-click a tab to close it
+<img width="1572" height="819" alt="audio auth results windows open" src="https://github.com/user-attachments/assets/c7bd3138-c78f-4833-a66d-e09d3d2cee37" />
+
 
 ---
 
